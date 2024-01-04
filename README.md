@@ -7,9 +7,10 @@ This is the repository of all blueprint books I've created in my attempts at spe
 My first attempt at speedrunning Seablock. Full video footage is available on YouTube:
 [playlist](https://www.youtube.com/playlist?list=PLDrB_g0ay4stcIxjDnMsa5WdVqN7aqKVW).
 
-The most notable thing about this run is that it's designed with
-[Brave New World](https://mods.factorio.com/mod/brave-new-world)
-mod in mind. This mod gives 50 logistic and 100 construction bots at the start at the cost of not having the character
+Import strings for all blueprints can be found in the [blueprints](v0.5.13-bnw/blueprints) directory.
+
+This run is designed with [Brave New World](https://mods.factorio.com/mod/brave-new-world) mod in mind.
+This mod gives 50 logistic and 100 construction bots at the start at the cost of not having the character
 and with that the ability to handcraft anything.
 
 Self-imposed rules:
@@ -30,7 +31,5 @@ Full list of mods:
   * [Playtime](https://mods.factorio.com/mod/playtime)
 
 Please note that the run is made in 0.5.13 version of Seablock modpack which is no longer the most recent.
-
-Import strings for all blueprints can be found in the [blueprints](v0.5.13-bnw/blueprints) directory.
 
 More details available [here](v0.5.13-bnw).
