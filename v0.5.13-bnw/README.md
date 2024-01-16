@@ -2,6 +2,8 @@
 
 Here's the general plan of what I've been up to in each segment.
 
+My take on mineral sludge is explained in [mineral_sludge.md](mineral_sludge.md).
+
 ## Red science era (S01 - S05)
 
 1. Rush mineral sludge
@@ -18,7 +20,7 @@ Here's the general plan of what I've been up to in each segment.
 Rush mineral sludge while cutting as many corners as possible.
 
 Result:
-* Researched Water treatment and Fluid control
+* researched Water treatment and Fluid control
 * 6 algae-1 farms
 * 4 electrolyzers
 * 1 filtration unit and 2 crystallyzers
@@ -29,7 +31,7 @@ Result:
 Idea: Stabilize after rushing mineral sludge.
 
 Result:
-* Researched Long inserters 1 and Mechanical refining
+* researched Long inserters 1 and Mechanical refining
 * 16 algae-1 farms
 * 10 electrolyzers
 * 2 filtration units and 2 crystallyzers (need one more)
@@ -47,7 +49,7 @@ Result:
 Idea: Pivoting from algae-1 to algae-2.
 
 Result:
-* Researched Green algae processing and Steel processing
+* researched Green algae processing and Steel processing
 * 4 algae-2 farms
 * 20 electrolyzers
 * 3 filtration units
@@ -57,8 +59,8 @@ Result:
 Idea: Produce 145 green science.
 
 Result:
-* Researched Green science
-* Produced steel plates, green circuits, green science
+* researched Green science
+* produced steel plates, green circuits, green science
 * 6 algae-2 farms
 * 20-26 electrolyzers
 * 4 filtration units
@@ -85,8 +87,31 @@ Result:
 
 ### Segment 07 (Advanced Smelting)
 Idea: Set up Advanced smelting for either iron or copper.
-* processed iron is to be used with one saphirite and one stiratite sorters
-* processed copper is to be used with two saphirite sorters, suitable only if pipes are full of molten iron
+
+Result:
+* 24 slag-2 electrolyzers
+* processed iron
+
+### Segment 08 (Solid Fuel)
+Idea: Set up Solid Fuel power plants.
+
+Result:
+* 32 slag-2 electrolyzers
+* Solid fuel power plants
+
+### Segment 09 (Silicon & Silver & Aluminium)
+Idea: Set up silicon, silver and aluminium production.
+
+Result:
+* researched Circuit network & Inserter capacity 1
+* 48 slag-2 electrolyzers
+* direct sorting of tin and lead
+* mixed sorting of bobmonium and rubyte chunks
+* produced fuel oil and naphtha from blue algae
+* silicon, silver and aluminium smelting
+
+### Segment 09 (Red Circuits)
+Idea: Produce red circuits.
 
 Result:
 * TBD
