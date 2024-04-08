@@ -41,7 +41,7 @@ Speaking of production rates, the mineral sludge build is available in multiple 
 | MK1  | 160/s  | none    | none    | N/A                           | early-game build  |
 | MK2  | 240/s  | none    | none    | in-place                      | a must have       |
 | MK3  | 320/s  | none    | none    | in-place                      | cost-inefficient? |
-| MK4  | 700/s  | none    | none    | some pipes need to be removed | end-game build    | 
+| MK4  | 700/s  | T1      | T0      | some pipes need to be removed | end-game build    | 
 
 ### 32 Slag-2 MK1 (160/s)
 Here's the 2x32 Slag-2 build using MK1 buildings and producing 320 mineral sludge per second.
