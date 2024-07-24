@@ -110,10 +110,13 @@ Result:
 * produced fuel oil and naphtha from blue algae
 * silicon, silver and aluminium smelting
 
-### Segment 09 (Red Circuits)
+### Segment 10 (Red Circuits)
 Idea: Produce red circuits.
 
 Result:
-* TBD
+* 56 slag-2 electrolyzers
+* ferrous sorting for iron and steel
+* red circuits
+* 2 roboports
 
 </details>
